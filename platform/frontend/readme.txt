@@ -1,0 +1,4 @@
+demo是sniffer，只需要运行sniffer就行，端口为8766
+allinone是所有的东西，但是貌似sniffer弄不了，端口是8765
+allinone的所有依赖都在hw的github上有说明，自己一个个pip也可以
+前端vue里面的依赖都在里面的readme里
